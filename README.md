@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vronika</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-  <img align="right" alt="coding"width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+  <img align="right" alt="coding"width="400" src="https://images.app.goo.gl/f5aKbKwynbwn7KWm9">
 
 - 🌱 I’m currently learning **Web Development**
 
