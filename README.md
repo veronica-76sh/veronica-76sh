@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vronika</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-  <img align="right" alt="coding"width="400" src="https://images.app.goo.gl/f5aKbKwynbwn7KWm9">
+  <img align="right" alt="coding"width="400" src="https://www.google.com/search?q=animated+coding+gif+&sca_esv=c8cc0987b76f0d8f&sxsrf=ADLYWIJyMpSrPgjBoV49Y2YBp9PAYLOskg%3A1720260187546&ei=WxaJZseEIbmLseMPgKabyAk&ved=0ahUKEwiHnpnLlJKHAxW5RWwGHQDTBpkQ4dUDCA8&uact=5&oq=animated+coding+gif+&gs_lp=Egxnd3Mtd2l6LXNlcnAiFGFuaW1hdGVkIGNvZGluZyBnaWYgMgsQABiABBiRAhiKBTILEAAYgAQYkQIYigUyBRAAGIAEMgUQABiABDIFEAAYgAQyBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeSJkRUNsCWMYNcAF4AZABAJgByAGgAdUKqgEFMC43LjG4AQPIAQD4AQGYAgagAu0GwgIKEAAYsAMY1gQYR8ICCxAAGIAEGIYDGIoFwgIIEAAYgAQYogSYAwCIBgGQBgiSBwUxLjQuMaAH9Sk&sclient=gws-wiz-serp#vhid=Ayf1SYgO6GGXAM&vssid=l">
 
 - 🌱 I’m currently learning **Web Development**
 
