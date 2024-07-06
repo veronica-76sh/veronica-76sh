@@ -1,3 +1,5 @@
+![logo](https://github.com/veronica-76sh/veronica-76sh/assets/174246588/d746c262-47a1-4182-97a7-957bcf522a8d)
+
 <h1 align="center">Hi 👋, I'm Veronika</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
