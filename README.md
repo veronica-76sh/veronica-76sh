@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vronika S</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-  i<img align="right" alt="coding"width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F116770475%2FAnimated-illustrations&psig=AOvVaw0sMwlJ7qwNn3Z0RScTjktQ&ust=1720346606929000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNjuqdqUkocDFQAAAAAdAAAAABAK">
+  i<img align="right" alt="coding"width="400" src="![alt text](image.png)">
 
 - 🌱 I’m currently learning **Web Development**
-git
+
 - 📫 How to reach me **veronicasahu007@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
