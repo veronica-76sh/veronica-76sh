@@ -1,4 +1,4 @@
-![header png](https://github.com/user-attachments/assets/cfa32382-32db-4477-a341-874d52124825)![logo](https://github.com/veronica-76sh/veronica-76sh/blob/main/Github%20banner.png)
+![logo](https://github.com/veronica-76sh/veronica-76sh/blob/main/Github%20banner.png)
 <h1 align="center">Hi 👋, I'm Veronika S</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
@@ -17,6 +17,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=veronica-76sh&" alt="veronica-76sh" /></p>
 <img align="right" alt="GIF" src="https://github.com/Nitesh-Singh-5/Nitesh-Singh-5/blob/main/icons/header_.png" />
+
+
 
 
 
