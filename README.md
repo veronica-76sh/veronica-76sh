@@ -1,3 +1,4 @@
+![logo](https://github.com/veronica-76sh/veronica-76sh/blob/main/Github%20banner.png)
 <h1 align="center">Hi 👋, I'm Veronika S</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
